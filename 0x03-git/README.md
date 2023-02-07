@@ -1,3 +1,10 @@
-[master 147bd69] dd
- 1 file changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 0x03-git/README.md
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
